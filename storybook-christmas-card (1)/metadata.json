@@ -1,0 +1,7 @@
+{
+  "name": "Storybook Christmas Card",
+  "description": "An interactive, page-flipping Christmas card with custom photo uploads, audio support, and a magical hand-drawn aesthetic inspired by vintage festive illustrations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
